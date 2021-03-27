@@ -1,2 +1,3 @@
 # handwritten-digits-discrimination
-Siamese neural network based for image discrimination.
+
+this repositorie shows siamese neural network based for image discrimination. 
